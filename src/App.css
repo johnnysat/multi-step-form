@@ -11,8 +11,12 @@
   padding: 2rem;
   text-align: center;
   background-color: #c8f4ff;
+
 }
 
 .App {
   background-color: #ffffff;
+  height: 80vh;
+  border-radius: 10px;
+
 }

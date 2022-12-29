@@ -1,12 +1,13 @@
 import { useState } from 'react'
 import './App.css'
+import AsideStep from './components/AsideStep/AsideStep'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <AsideStep/>
     </div>
   )
 }
