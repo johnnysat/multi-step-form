@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import AsideStep from './components/AsideStep/AsideStep'
+import Cadastro from './components/Cadastro/Cadastro'
 
 function App() {
   const [count, setCount] = useState(0)

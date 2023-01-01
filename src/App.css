@@ -18,5 +18,8 @@
   background-color: #ffffff;
   height: 80vh;
   border-radius: 10px;
-
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 50px;
+  grid-row-gap: 0px;
 }
